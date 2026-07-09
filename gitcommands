@@ -1,0 +1,9 @@
+git congit --list
+git config --global user.name
+git config --global user.email
+git status
+git add <filename>
+git commit -m "message"
+git push -u origin <branch-name>
+git pull
+git clone
